@@ -31,7 +31,7 @@ Programming Languages that I know:
   <li>
     <a href="https://learn.microsoft.com/pl-pl/cpp/cpp/?view=msvc-170">
 <img src="https://skillicons.dev/icons?i=cpp" data-canonical-src="https://skillicons.dev/icons?i=cpp" height="20" />
- C#</a>
+ C++</a>
       </li>
   </ul>
 Technologies and Libraries that I know:
@@ -68,14 +68,9 @@ Technologies and Libraries that I know:
       </li>
   <li>
     <a href="https://learn.microsoft.com/pl-pl/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
-<img src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png" data-canonical-src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png"  height="20" />
- WPF</a>
-      </li>
-  <li>
-    <a href="https://learn.microsoft.com/pl-pl/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
-<img src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png" data-canonical-src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png"  height="20" />
- WPF</a>
-      </li>
+<img src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055" data-canonical-src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055"  height="20" />
+ WinForms</a>
+  </li>
   <li>
 <a href="https://www.chartjs.org/">
 <img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="20" />
