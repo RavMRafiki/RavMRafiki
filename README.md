@@ -1,8 +1,7 @@
 ### Hi there 👋
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
 Programming Languages that I know:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- HTML
+- HTML [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 - CSS
 - JavaScript
 - Python
