@@ -5,7 +5,7 @@ Programming Languages that I know:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,python,cs,cpp)](https://skillicons.dev)
 
 Technologies that I know:
-[![Skills](https://skillicons.dev/icons?i=bootstrap,jquery,mysql,sqlite,dotnet)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bootstrap,jquery,mysql,sqlite,dotnet,latex)](https://skillicons.dev)
 - Bootstrap
 - Chart.js
 - jQuery
