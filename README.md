@@ -89,6 +89,7 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
  Redux</a>
       </li>
+  <li>
   <a href="https://tailwindcss.com/">
 <img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
  Taiwind</a>
