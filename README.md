@@ -5,13 +5,11 @@ Programming Languages that I know:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,python,cs,cpp)](https://skillicons.dev)
 
 Technologies that I know:
-[![Skills](https://skillicons.dev/icons?i=bootstrap,jquery,mysql,sqlite,dotnet,latex)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bootstrap,jquery,mysql,sqlite,dotnet,latex)](https://getbootstrap.com/)
 - Bootstrap
 - Chart.js
 - jQuery
-- Pandas
 - .NET
-- SFML
 I'm currently learning:
 - React
 - Redux
