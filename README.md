@@ -34,7 +34,7 @@ Programming Languages that I know:
  C++</a>
       </li>
   </ul>
-Technologies and Libraries that I know:
+Technologies and Libraries that I know or worked with:
 <ul>
   <li>
     <a href="https://getbootstrap.com/">
