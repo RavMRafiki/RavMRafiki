@@ -7,27 +7,34 @@ Programming Languages that I know:
 Technologies that I know:
 <ul>
   <li>
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap,jquery,mysql,sqlite,dotnet,latex)](https://getbootstrap.com/)
-  </li>
-  <li>
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+    <a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap"/>
+ Bootstrap</a>
       </li>
   <li>
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+    <a href="https://jquery.com/">
+<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery"/>
+ jQuery</a>
       </li>
   <li>
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+    <a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" data-canonical-src="https://skillicons.dev/icons?i=mysql"/>
+ MySQL</a>
       </li>
   <li>
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
+        <a href="https://www.sqlite.org/index.html">
+<img src="https://skillicons.dev/icons?i=sqlite" data-canonical-src="https://skillicons.dev/icons?i=sqlite"/>
+ SQLite</a>
       </li>
   <li>
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/pl-pl/dotnet/)
+    <a href="https://learn.microsoft.com/pl-pl/dotnet/">
+<img src="https://skillicons.dev/icons?i=dotnet" data-canonical-src="https://skillicons.dev/icons?i=dotnet"/>
+ .NET</a>
       </li>
   <li>
 <!-- [![Chart.js](https://www.chartjs.org/docs/latest/favicon.ico && width=100)](https://www.chartjs.org/) -->
-<a href="chartjs.org">
-<img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="60" />
+<a href="https://www.chartjs.org/">
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="50" />
  Chart.js</a>
   </li>
  </ul>
