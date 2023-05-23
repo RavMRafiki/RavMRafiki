@@ -32,28 +32,30 @@ Technologies that I know:
  .NET</a>
       </li>
   <li>
-<!-- [![Chart.js](https://www.chartjs.org/docs/latest/favicon.ico && width=100)](https://www.chartjs.org/) -->
 <a href="https://www.chartjs.org/">
 <img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="50" />
  Chart.js</a>
   </li>
  </ul>
-- Bootstrap
-- Chart.js
-- jQuery
-- .NET
 I'm currently learning:
-- React
-- Redux
-- Tailwind
+<ul>
+  <li>
+    <a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react"/>
+ React</a>
+      </li>
+    <li>
+    <a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux"/>
+ Redux</a>
+      </li>
+  <a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind"/>
+ Taiwind</a>
+      </li>
+      </ul>
 Languages:
 - Polish Native
 - English Fluent
 - Dutch Begginer
-Programming Languages
-- HTML 
-- CSS
-- JavaScript
-- Python
-- C#
-- C++
+
