@@ -11,7 +11,7 @@ Technologies that I know:
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/pl-pl/dotnet/)
-[![Chart.js](https://www.chartjs.org/img/chartjs-logo.svg | width=100)](https://www.chartjs.org/)
+[![Chart.js](https://www.chartjs.org/img/chartjs-logo.svg =100x100)](https://www.chartjs.org/)
 - Bootstrap
 - Chart.js
 - jQuery
