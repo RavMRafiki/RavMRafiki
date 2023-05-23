@@ -98,5 +98,5 @@ I'm currently learning:
 Languages:
 - Polish Native
 - English Fluent
-- Dutch Begginer
+- Dutch Beginner
 
