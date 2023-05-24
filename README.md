@@ -42,11 +42,6 @@ Technologies and Libraries that I know or worked with:
  Bootstrap</a>
       </li>
   <li>
-    <a href="https://jquery.com/">
-<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
- jQuery</a>
-      </li>
-  <li>
     <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" data-canonical-src="https://skillicons.dev/icons?i=mysql" height="20" />
  MySQL</a>
@@ -93,6 +88,11 @@ I'm currently learning:
   <a href="https://tailwindcss.com/">
 <img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
  Taiwind</a>
+      </li>
+    <li>
+    <a href="https://jquery.com/">
+<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
+ jQuery</a>
       </li>
       </ul>
 Languages:
