@@ -42,6 +42,21 @@ Technologies and Libraries that I know or worked with:
  Bootstrap</a>
       </li>
   <li>
+    <a href="https://sass-lang.com/">
+<img src="https://skillicons.dev/icons?i=sass" data-canonical-src="https://skillicons.dev/icons?i=sass" height="20" />
+ Sass</a>
+      </li>
+    <li>
+<a href="https://www.chartjs.org/">
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="20" />
+ Chart.js</a>
+  </li>
+   <li>
+    <a href="https://jquery.com/">
+<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
+ jQuery</a>
+      </li>
+  <li>
     <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" data-canonical-src="https://skillicons.dev/icons?i=mysql" height="20" />
  MySQL</a>
@@ -66,11 +81,6 @@ Technologies and Libraries that I know or worked with:
 <img src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055" data-canonical-src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055"  height="20" />
  WinForms</a>
   </li>
-  <li>
-<a href="https://www.chartjs.org/">
-<img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="20" />
- Chart.js</a>
-  </li>
  </ul>
 I'm currently learning:
 <ul>
@@ -88,11 +98,6 @@ I'm currently learning:
   <a href="https://tailwindcss.com/">
 <img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
  Taiwind</a>
-      </li>
-    <li>
-    <a href="https://jquery.com/">
-<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
- jQuery</a>
       </li>
       </ul>
 Languages:
