@@ -83,7 +83,12 @@ Technologies and Libraries that I know or worked with:
   </li>
  </ul>
 I'm currently learning:
-<ul>
+<ul>  
+  <li>
+  <a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" data-canonical-src="https://skillicons.dev/icons?i=typescript" height="20" />
+ TypeScript</a>
+      </li>
   <li>
     <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
