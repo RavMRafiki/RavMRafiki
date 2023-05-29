@@ -56,6 +56,11 @@ Technologies and Libraries that I know or worked with:
 <img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
  jQuery</a>
       </li>
+     <li>
+    <a href="https://vitejs.dev/">
+<img src="https://skillicons.dev/icons?i=vite" data-canonical-src="https://skillicons.dev/icons?i=vite" height="20" />
+ Vite</a>
+      </li>
   <li>
     <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" data-canonical-src="https://skillicons.dev/icons?i=mysql" height="20" />
