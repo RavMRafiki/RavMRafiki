@@ -18,6 +18,11 @@ Programming Languages that I know:
 <img src="https://skillicons.dev/icons?i=javascript" data-canonical-src="https://skillicons.dev/icons?i=javascript" height="20" />
  JavaScript</a>
       </li>
+    <li>
+  <a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" data-canonical-src="https://skillicons.dev/icons?i=typescript" height="20" />
+ TypeScript</a>
+      </li>
    <li>
     <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=py" data-canonical-src="https://skillicons.dev/icons?i=py" height="20" />
@@ -35,7 +40,16 @@ Programming Languages that I know:
       </li>
   </ul>
 Technologies and Libraries that I know or worked with:
-<ul>
+<ul>  
+    <li>
+    <a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
+ React</a>
+      </li><li>
+  <a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
+ Taiwind</a>
+      </li>
   <li>
     <a href="https://getbootstrap.com/">
 <img src="https://skillicons.dev/icons?i=bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" height="20" />
@@ -89,25 +103,10 @@ Technologies and Libraries that I know or worked with:
  </ul>
 I'm currently learning:
 <ul>  
-  <li>
-  <a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" data-canonical-src="https://skillicons.dev/icons?i=typescript" height="20" />
- TypeScript</a>
-      </li>
-  <li>
-    <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
- React</a>
-      </li>
     <li>
     <a href="https://redux.js.org/">
 <img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
  Redux</a>
-      </li>
-  <li>
-  <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
- Taiwind</a>
       </li>
       </ul>
 Languages:
