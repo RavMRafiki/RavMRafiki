@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
 
-Programming Languages that I know:
+Programming Languages, Technologies and Libraries that I know or worked with:
 <ul>
   <li>
     <a href="https://html.com/">
@@ -38,9 +38,6 @@ Programming Languages that I know:
 <img src="https://skillicons.dev/icons?i=cpp" data-canonical-src="https://skillicons.dev/icons?i=cpp" height="20" />
  C++</a>
       </li>
-  </ul>
-Technologies and Libraries that I know or worked with:
-<ul>  
     <li>
     <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
