@@ -2,16 +2,16 @@
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
 Best Projects and their technologies:
 
-React, Sass, TypeScript, Scss
+ - React, Sass, TypeScript, Scss
 [Titanium Gym](https://ravmrafiki.github.io/Titanim-Gym/) [Source Code](https://github.com/RavMRafiki/Titanim-Gym)
 
-React, TypeScript, Tailwind
+ - React, TypeScript, Tailwind
 [Dutch Tutor](https://ravmrafiki.github.io/Dutch-Tutor/) [Source Code](https://github.com/RavMRafiki/Dutch-Tutor)
 
-JavaScript, Bootstrap, ChartJS, HTML
+ - JavaScript, Bootstrap, ChartJS, HTML
 [Studying Planner](https://ravmrafiki.github.io/studying-planner/) [Source Code](https://github.com/RavMRafiki/studying-planner)
 
-React, Javascript, CSS
+ - React, Javascript, CSS
 [Photo Editor](https://ravmrafiki.github.io/photo-editing-website/) [Source Code](https://github.com/RavMRafiki/photo-editor)
 
 
