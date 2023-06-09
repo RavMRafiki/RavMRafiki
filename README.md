@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
+
 Best Projects and their technologies:
 
  - [Titanium Gym](https://ravmrafiki.github.io/Titanim-Gym/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=sass" height="20"/>
