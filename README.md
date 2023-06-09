@@ -8,10 +8,10 @@ React, Sass, TypeScript, Scss
 React, TypeScript, Tailwind
 [Dutch Tutor](https://ravmrafiki.github.io/Dutch-Tutor/) [Source Code](https://github.com/RavMRafiki/Dutch-Tutor)
 
-JavaScript Bootstrap ChartJS HTML
+JavaScript, Bootstrap, ChartJS, HTML
 [Studying Planner](https://ravmrafiki.github.io/studying-planner/) [Source Code](https://github.com/RavMRafiki/studying-planner)
 
-React Javascript CSS
+React, Javascript, CSS
 [Photo Editor](https://ravmrafiki.github.io/photo-editing-website/) [Source Code](https://github.com/RavMRafiki/photo-editor)
 
 
