@@ -2,17 +2,14 @@
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
 Best Projects and their technologies:
 
- - React, Sass, TypeScript, Scss
-[Titanium Gym](https://ravmrafiki.github.io/Titanim-Gym/) [Source Code](https://github.com/RavMRafiki/Titanim-Gym)
+ - [Titanium Gym](https://ravmrafiki.github.io/Titanim-Gym/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=sass" height="20"/>
+ [Source Code](https://github.com/RavMRafiki/Titanim-Gym)
 
- - React, TypeScript, Tailwind
-[Dutch Tutor](https://ravmrafiki.github.io/Dutch-Tutor/) [Source Code](https://github.com/RavMRafiki/Dutch-Tutor)
+ - [Dutch Tutor](https://ravmrafiki.github.io/Dutch-Tutor/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> [Source Code](https://github.com/RavMRafiki/Dutch-Tutor)
 
- - JavaScript, Bootstrap, ChartJS, HTML
-[Studying Planner](https://ravmrafiki.github.io/studying-planner/) [Source Code](https://github.com/RavMRafiki/studying-planner)
+ - [Studying Planner](https://ravmrafiki.github.io/studying-planner/) <img src="https://skillicons.dev/icons?i=javascript" height="20"/> <img src="https://skillicons.dev/icons?i=html" height="20"/> <img src="https://skillicons.dev/icons?i=bootstrap" height="20"/> [Source Code](https://github.com/RavMRafiki/studying-planner)
 
- - React, Javascript, CSS
-[Photo Editor](https://ravmrafiki.github.io/photo-editing-website/) [Source Code](https://github.com/RavMRafiki/photo-editor)
+ - [Photo Editor](https://ravmrafiki.github.io/photo-editing-website/) <img src="https://skillicons.dev/icons?i=javascript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=css" height="20"/> [Source Code](https://github.com/RavMRafiki/photo-editor)
 
 
 Programming Languages, Technologies and Libraries that I know or worked with:
