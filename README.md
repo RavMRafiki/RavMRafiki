@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
 
 Best Projects and their technologies:
