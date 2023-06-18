@@ -121,5 +121,23 @@ I'm currently learning:
 Languages:
 - Polish Native
 - English Fluent
+I'm planning to learn:
+<ul>  
+    <li>
+    <a href="https://svelte.dev/">
+<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
+ Svelte</a>
+      </li>    
+ <li>
+    <a href="https://angular.io/">
+<img src="https://skillicons.dev/icons?i=angular" data-canonical-src="https://skillicons.dev/icons?i=angular" height="20" />
+ Angular</a>
+      </li>
+  <li>
+    <a href="https://vuejs.org/">
+<img src="https://skillicons.dev/icons?i=vue" data-canonical-src="https://skillicons.dev/icons?i=vue" height="20" />
+ Vue</a>
+      </li>
+      </ul>
 - Dutch Beginner
 
