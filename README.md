@@ -121,6 +121,9 @@ I'm currently learning:
 Languages:
 - Polish Native
 - English Fluent
+- Dutch Beginner
+
+
 I'm planning to learn:
 <ul>  
     <li>
@@ -139,5 +142,4 @@ I'm planning to learn:
  Vue</a>
       </li>
       </ul>
-- Dutch Beginner
 
