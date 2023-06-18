@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science.
+I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science on Silesian University of Technology.
 
 Best Projects and their technologies:
 
