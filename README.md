@@ -117,6 +117,11 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
  Redux</a>
       </li>
+    <li>
+    <a href="https://svelte.dev/">
+<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
+ Svelte</a>
+      </li>    
       </ul>
 Languages:
 - Polish Native
@@ -126,11 +131,6 @@ Languages:
 
 I'm planning to learn:
 <ul>  
-    <li>
-    <a href="https://svelte.dev/">
-<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
- Svelte</a>
-      </li>    
  <li>
     <a href="https://angular.io/">
 <img src="https://skillicons.dev/icons?i=angular" data-canonical-src="https://skillicons.dev/icons?i=angular" height="20" />
