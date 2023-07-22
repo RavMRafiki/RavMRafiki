@@ -52,6 +52,16 @@ Programming Languages, Technologies and Libraries that I know or worked with:
 <img src="https://skillicons.dev/icons?i=cpp" data-canonical-src="https://skillicons.dev/icons?i=cpp" height="20" />
  C++</a>
       </li>
+     <li>
+    <a href="https://svelte.dev/">
+<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
+ Svelte</a>
+      </li>    
+     <li>
+    <a href="https://kit.svelte.dev/">
+<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
+ SvelteKit</a>
+      </li>    
     <li>
     <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
@@ -119,11 +129,6 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
  Redux</a>
       </li>
-    <li>
-    <a href="https://svelte.dev/">
-<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
- Svelte</a>
-      </li>    
       </ul>
 Languages:
 - Polish Native
