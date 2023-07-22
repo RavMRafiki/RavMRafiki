@@ -125,9 +125,9 @@ Programming Languages, Technologies and Libraries that I know or worked with:
 I'm currently learning:
 <ul>  
     <li>
-    <a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
- Redux</a>
+    <a href="https://rxjs.dev/">
+<img src="https://skillicons.dev/icons?i=rxjs" data-canonical-src="https://skillicons.dev/icons?i=rxjs" height="20" />
+ RxJS</a>
       </li>
       </ul>
 Languages:
@@ -147,6 +147,11 @@ I'm planning to learn:
     <a href="https://vuejs.org/">
 <img src="https://skillicons.dev/icons?i=vue" data-canonical-src="https://skillicons.dev/icons?i=vue" height="20" />
  Vue</a>
+      </li>
+     <li>
+    <a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
+ Redux</a>
       </li>
       </ul>
 
