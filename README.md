@@ -129,6 +129,10 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=rxjs" data-canonical-src="https://skillicons.dev/icons?i=rxjs" height="20" />
  RxJS</a>
       </li>
+ <li><a href="https://www.ruby-lang.org/">
+<img src="https://skillicons.dev/icons?i=ruby" data-canonical-src="https://skillicons.dev/icons?i=ruby" height="20" />
+ Ruby</a>
+      </li>
       </ul>
 Languages:
 - Polish Native
