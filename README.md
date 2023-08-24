@@ -133,6 +133,11 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=ruby" data-canonical-src="https://skillicons.dev/icons?i=ruby" height="20" />
  Ruby</a>
       </li>
+       </li>
+ <li><a href="https://rubyonrails.org/">
+<img src="https://skillicons.dev/icons?i=rails" data-canonical-src="https://skillicons.dev/icons?i=rails" height="20" />
+ Ruby on Rails</a>
+      </li>
       </ul>
 Languages:
 - Polish Native
