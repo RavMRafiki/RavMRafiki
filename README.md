@@ -138,6 +138,11 @@ I'm currently learning:
 <img src="https://skillicons.dev/icons?i=rails" data-canonical-src="https://skillicons.dev/icons?i=rails" height="20" />
  Ruby on Rails</a>
       </li>
+        </li>
+ <li><a href="https://fastapai/">
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" data-canonical-src="https://fastapi.tiangolo.com/img/icon-white.svg" height="20" />
+ fastAPI</a>
+      </li>
       </ul>
 Languages:
 - Polish Native
