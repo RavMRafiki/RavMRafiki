@@ -106,6 +106,11 @@ Programming Languages, Technologies and Libraries that I know or worked with:
 <img src="https://skillicons.dev/icons?i=sqlite" data-canonical-src="https://skillicons.dev/icons?i=sqlite" height="20" />
  SQLite</a>
       </li>
+   <li>
+        <a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgresql" data-canonical-src="https://skillicons.dev/icons?i=postgresql" height="20" />
+ PostgreSQL</a>
+      </li>
   <li>
     <a href="https://learn.microsoft.com/pl-pl/dotnet/">
 <img src="https://skillicons.dev/icons?i=dotnet" data-canonical-src="https://skillicons.dev/icons?i=dotnet"  height="20" />
