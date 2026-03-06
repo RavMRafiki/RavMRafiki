@@ -1,176 +1,62 @@
-### Hi there 👋 
-I am Rafał Maciończyk a Front End Web Developer pursuing my Bachelors in Computer Science on Silesian University of Technology.
+## Hi there 👋
+I'm **Rafał Maciończyk**, a **Full Stack Developer** with a **BSc in Computer Science** from **Silesian University of Technology**, currently pursuing a **Master’s degree in Computer Science**.
 
-Best Projects and their technologies:
- - [Movie Base](https://movie-base-ravmrafiki.vercel.app/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=svelte" height="20"/> <img src="https://skillicons.dev/icons?i=css" height="20"/>
- [Source Code](https://github.com/RavMRafiki/Movie-Base)
+## 🚀 Featured Projects
 
- - [Titanium Gym](https://ravmrafiki.github.io/Titanim-Gym/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=sass" height="20"/>
- [Source Code](https://github.com/RavMRafiki/Titanim-Gym)
+### 🎬 Movie Base
+Movie search web app that allows users to browse, search, and view details about films using a public movie API.
 
- - [Dutch Tutor](https://ravmrafiki.github.io/Dutch-Tutor/) <img src="https://skillicons.dev/icons?i=typescript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> [Source Code](https://github.com/RavMRafiki/Dutch-Tutor)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://movie-base-ravmrafiki.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/Movie-Base)
+<img src="https://skillicons.dev/icons?i=typescript,svelte,css" height="28"/>
 
- - [Studying Planner](https://ravmrafiki.github.io/studying-planner/) <img src="https://skillicons.dev/icons?i=javascript" height="20"/> <img src="https://skillicons.dev/icons?i=html" height="20"/> <img src="https://skillicons.dev/icons?i=bootstrap" height="20"/> [Source Code](https://github.com/RavMRafiki/studying-planner)
+### 💪 Titanium Gym
+Responsive gym website with a modern UI presenting services, pricing plans, and fitness programs.
 
- - [Photo Editor](https://ravmrafiki.github.io/photo-editing-website/) <img src="https://skillicons.dev/icons?i=javascript" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=css" height="20"/> [Source Code](https://github.com/RavMRafiki/photo-editor)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://ravmrafiki.github.io/Titanim-Gym/)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/Titanim-Gym)
+<img src="https://skillicons.dev/icons?i=typescript,react,sass" height="28"/>
 
+### 🇳🇱 Dutch Tutor
+Interactive language learning web app designed to help users practice and memorize Dutch vocabulary.
 
-Programming Languages, Technologies and Libraries that I know or worked with:
-<ul>
-  <li>
-    <a href="https://html.com/">
-<img src="https://skillicons.dev/icons?i=html" data-canonical-src="https://skillicons.dev/icons?i=html" height="20" />
- HTML</a>
-      </li>
-    <li>
-    <a href="https://www.w3.org/">
-<img src="https://skillicons.dev/icons?i=css" data-canonical-src="https://skillicons.dev/icons?i=css" height="20" />
- CSS</a>
-      </li>
-   <li>
-    <a href="https://www.javascript.org/">
-<img src="https://skillicons.dev/icons?i=javascript" data-canonical-src="https://skillicons.dev/icons?i=javascript" height="20" />
- JavaScript</a>
-      </li>
-    <li>
-  <a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" data-canonical-src="https://skillicons.dev/icons?i=typescript" height="20" />
- TypeScript</a>
-      </li>
-   <li>
-    <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=py" data-canonical-src="https://skillicons.dev/icons?i=py" height="20" />
- Python</a>
-      </li>  
-  <li>
-    <a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
-<img src="https://skillicons.dev/icons?i=cs" data-canonical-src="https://skillicons.dev/icons?i=cs" height="20" />
- C#</a>
-      </li>
-  <li>
-    <a href="https://learn.microsoft.com/pl-pl/cpp/cpp/?view=msvc-170">
-<img src="https://skillicons.dev/icons?i=cpp" data-canonical-src="https://skillicons.dev/icons?i=cpp" height="20" />
- C++</a>
-      </li>
-     <li>
-    <a href="https://svelte.dev/">
-<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
- Svelte</a>
-      </li>    
-     <li>
-    <a href="https://kit.svelte.dev/">
-<img src="https://skillicons.dev/icons?i=svelte" data-canonical-src="https://skillicons.dev/icons?i=svelte" height="20" />
- SvelteKit</a>
-      </li>    
-    <li>
-    <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" data-canonical-src="https://skillicons.dev/icons?i=react" height="20" />
- React</a>
-      </li><li>
-  <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" height="20" />
- Taiwind</a>
-      </li>
-  <li>
-    <a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" height="20" />
- Bootstrap</a>
-      </li>
-  <li>
-    <a href="https://sass-lang.com/">
-<img src="https://skillicons.dev/icons?i=sass" data-canonical-src="https://skillicons.dev/icons?i=sass" height="20" />
- Sass</a>
-      </li>
-    <li>
-<a href="https://www.chartjs.org/">
-<img src="https://www.chartjs.org/img/chartjs-logo.svg" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" height="20" />
- Chart.js</a>
-  </li>
-   <li>
-    <a href="https://jquery.com/">
-<img src="https://skillicons.dev/icons?i=jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" height="20" />
- jQuery</a>
-      </li>
-     <li>
-    <a href="https://vitejs.dev/">
-<img src="https://skillicons.dev/icons?i=vite" data-canonical-src="https://skillicons.dev/icons?i=vite" height="20" />
- Vite</a>
-      </li>
-  <li>
-    <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" data-canonical-src="https://skillicons.dev/icons?i=mysql" height="20" />
- MySQL</a>
-      </li>
-  <li>
-        <a href="https://www.sqlite.org/index.html">
-<img src="https://skillicons.dev/icons?i=sqlite" data-canonical-src="https://skillicons.dev/icons?i=sqlite" height="20" />
- SQLite</a>
-      </li>
-   <li>
-        <a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgresql" data-canonical-src="https://skillicons.dev/icons?i=postgresql" height="20" />
- PostgreSQL</a>
-      </li>
-  <li>
-    <a href="https://learn.microsoft.com/pl-pl/dotnet/">
-<img src="https://skillicons.dev/icons?i=dotnet" data-canonical-src="https://skillicons.dev/icons?i=dotnet"  height="20" />
- .NET</a>
-      </li>
-   <li>
-    <a href="https://learn.microsoft.com/pl-pl/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
-<img src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png" data-canonical-src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png"  height="20" />
- WPF</a>
-      </li>
-  <li>
-    <a href="https://learn.microsoft.com/pl-pl/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
-<img src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055" data-canonical-src="https://matthiasseys.com/assets/img/logos/logo-winforms.png?h=50766bf2b554451944da996a26a6e055"  height="20" />
- WinForms</a>
-  </li>
- </ul>
-I'm currently learning:
-<ul>  
-    <li>
-    <a href="https://rxjs.dev/">
-<img src="https://skillicons.dev/icons?i=rxjs" data-canonical-src="https://skillicons.dev/icons?i=rxjs" height="20" />
- RxJS</a>
-      </li>
- <li><a href="https://www.ruby-lang.org/">
-<img src="https://skillicons.dev/icons?i=ruby" data-canonical-src="https://skillicons.dev/icons?i=ruby" height="20" />
- Ruby</a>
-      </li>
-       </li>
- <li><a href="https://rubyonrails.org/">
-<img src="https://skillicons.dev/icons?i=rails" data-canonical-src="https://skillicons.dev/icons?i=rails" height="20" />
- Ruby on Rails</a>
-      </li>
-        </li>
- <li><a href="https://fastapai/">
-<img src="https://fastapi.tiangolo.com/img/icon-white.svg" data-canonical-src="https://fastapi.tiangolo.com/img/icon-white.svg" height="20" />
- fastAPI</a>
-      </li>
-      </ul>
-Languages:
-- Polish Native
-- English Fluent
-- Dutch Beginner
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://ravmrafiki.github.io/Dutch-Tutor/)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/Dutch-Tutor)
+<img src="https://skillicons.dev/icons?i=typescript,react,tailwind" height="28"/>
 
+---
 
-I'm planning to learn:
-<ul>  
- <li>
-    <a href="https://angular.io/">
-<img src="https://skillicons.dev/icons?i=angular" data-canonical-src="https://skillicons.dev/icons?i=angular" height="20" />
- Angular</a>
-      </li>
-  <li>
-    <a href="https://vuejs.org/">
-<img src="https://skillicons.dev/icons?i=vue" data-canonical-src="https://skillicons.dev/icons?i=vue" height="20" />
- Vue</a>
-      </li>
-     <li>
-    <a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux" data-canonical-src="https://skillicons.dev/icons?i=redux" height="20" />
- Redux</a>
-      </li>
-      </ul>
+### 🧰 Tech Stack
 
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+<!--
+# ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+# ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+-->
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+<!--
+# ![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6F61?style=for-the-badge)
+# ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+# ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+# ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+-->
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
