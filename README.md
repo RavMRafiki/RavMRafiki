@@ -1,23 +1,26 @@
 ## Hi there 👋
+
 I'm **Rafał Maciończyk**, a **Full Stack Developer** with a **BSc in Computer Science** from **Silesian University of Technology**, currently pursuing a **Master’s degree in Computer Science**.
 
 ## 🚀 Featured Projects
 
+### 🛒 Java E-commerce
+
+Backend e-commerce application built with Java and Spring ecosystem technologies.
+
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/java-e-commerce)
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql" height="28"/>
+
 ### 🎬 Movie Base
+
 Movie search web app that allows users to browse, search, and view details about films using a public movie API.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://movie-base-ravmrafiki.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/Movie-Base)
 <img src="https://skillicons.dev/icons?i=typescript,svelte,css" height="28"/>
 
-### 💪 Titanium Gym
-Responsive gym website with a modern UI presenting services, pricing plans, and fitness programs.
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://ravmrafiki.github.io/Titanim-Gym/)
-[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/RavMRafiki/Titanim-Gym)
-<img src="https://skillicons.dev/icons?i=typescript,react,sass" height="28"/>
-
 ### 🇳🇱 Dutch Tutor
+
 Interactive language learning web app designed to help users practice and memorize Dutch vocabulary.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://ravmrafiki.github.io/Dutch-Tutor/)
@@ -49,7 +52,6 @@ Interactive language learning web app designed to help users practice and memori
 # ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 # ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
-
 
 <!--
 # ![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6F61?style=for-the-badge)
